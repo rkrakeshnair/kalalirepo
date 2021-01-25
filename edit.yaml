@@ -4,4 +4,4 @@
     - name: content update
       copy:
        dest: /tmp/resolvi1.conf
-       content: "copy testing going on"
+       content: "copy testing going on 1"
